@@ -1,5 +1,3 @@
-# COGS-118B
-Cogs final project - python
 Human Activity Recognition
 
 Collaborators: Kalam Park, Cray Minor, Kira Fleischer, Abe Torok
